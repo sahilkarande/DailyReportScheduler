@@ -2,7 +2,7 @@
 
 A lightweight Android app to quickly create and manage structured daily reports.
 
-
+![App Screenshot](app_image.jpeg)
 
 ## Features
 
