@@ -2,7 +2,7 @@
 
 A simple Android app to fill, generate, and share your daily training reports — fast.
 
-![App Screenshot](app_image.jpeg)
+![App Screenshot](App_img.jpeg)
 
 ---
 
